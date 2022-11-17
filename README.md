@@ -1,2 +1,2 @@
 # Task-list
- Creating schedulr for your activities
+ Creating schedule for your activities
